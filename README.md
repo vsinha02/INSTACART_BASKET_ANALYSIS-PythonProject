@@ -1,5 +1,6 @@
 ## Instacart Basket Analysis
 Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns
+The goal is to align marketing strategies with customer preferences and uncover growth opportunities within Instacart's offerings.
 
 ## Introduction
 As part of Instacart's analytics team, the company aims to gain deeper insights into its sales patterns. The task at hand is to conduct an initial data and exploratory analysis to derive insights and propose strategies for better segmentation.
@@ -35,12 +36,9 @@ customers are ordering?
 ## Stakeholders
 The insights derived from this analysis will cater to:
 
-The Vice President of Marketing
-The Senior Vice President of Sales
+The Vice President of Marketing, 
+The Senior Vice President of Sales, 
 Instacart Customers
-The goal is to align marketing strategies with customer preferences and uncover growth opportunities within Instacart's offerings.
-
-
 
 
 ## Dataset
