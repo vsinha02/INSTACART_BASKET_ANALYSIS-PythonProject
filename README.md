@@ -44,7 +44,7 @@ Instacart Customers
 ## Dataset
 The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
 
-[Customers Data Set]
+[Customers Data Set](/customer.csv)
 
 ## Tools
 Anaconda, 
